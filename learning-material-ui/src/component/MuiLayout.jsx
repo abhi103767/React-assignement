@@ -22,7 +22,7 @@ function MuiLayout() {
                 }}></Box>
                 <Grid container rowSpacing={2} columnSpacing={1}>
                     <Grid item xs={6}><Box p={2}>Item1</Box>   </Grid>
-                    <Grid item xs={6}><Box color={'secondary'} p={2}>Item1</Box>   </Grid>
+                    <Grid item xs={6}><Box color={'text.secondary'} p={2}>Item1</Box>   </Grid>
                     <Grid item xs={6}><Box bgcolor={'green'} p={2}>Item1</Box>   </Grid>
                     <Grid item xs={6}><Box bgcolor={'green'} p={2}>Item1</Box>   </Grid>
 
