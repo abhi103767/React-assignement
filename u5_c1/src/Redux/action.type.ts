@@ -1,0 +1,3 @@
+const ADD_PRODUCT:any = 'ADD_PRODUCT';
+const ADD_CART:any = 'ADD_CART';
+export {ADD_PRODUCT,ADD_CART}
