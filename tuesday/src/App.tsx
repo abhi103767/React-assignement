@@ -10,8 +10,12 @@ function App() {
   }
   return (
     <div className="App">
-      <button>Submit </button>
+      <div className='homepage'>
+      <button >Submit Otp </button>
+      </div>
+      <div className='modal'>
       <OtpInput totalInputs={4} handleChange = {handleChange}/>
+      </div>
       
     </div>
   );
